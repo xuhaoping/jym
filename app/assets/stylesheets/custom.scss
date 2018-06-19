@@ -1,0 +1,67 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+//index
+.title{
+font-size:48px;  
+margin-top:20px;
+margin-bottom:20px;
+font-weight: bold;
+}
+
+.clear{
+clear:both;
+}
+//one
+.one_title{
+margin-top:30px;
+font-size:50px;
+text-align:center;
+font-weight: bold;
+}
+.dear{
+font-size:40px;
+margin-left:20px;
+margin-top:30px;
+}
+.text{
+font-size:30px;
+margin-left:30px;
+text-indent:50px;
+}
+.texts{
+font-weight: bold;
+font-size:42px;
+}
+
+#logo{
+width: 600px;
+height: 300px;
+float:right;
+}
+#liu{
+width: 1000px;
+height: 300px;
+float:left;
+}
+#liu1{
+width: 1000px;
+height: 800px;
+float:left;
+}
+#liu2{
+margin-left: 25px;
+width: 970px;
+height: 500px;
+float:left;
+}
+
+#er{
+width: 1000px;
+height: 1000px;
+float:left;
+}
+
+.center{
+text-align: center;
+}
